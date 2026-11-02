@@ -1,0 +1,8 @@
+{
+  "name": "lan-bounty-mobile",
+  "version": "1.1.0",
+  "description": "Mobile-friendly LAN multiplayer bounty arena",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
